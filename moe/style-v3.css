@@ -7,7 +7,7 @@
 .hope-button {
 	color: #fff !important;
 	/*设置按钮字体为白色*/
-	background-color: #ffb6c1 !important
+	background-color: #912CEE !important
 		/*设置按钮背景为粉色*/
 }
 
@@ -18,11 +18,11 @@
 .hope-c-PJLV-ijzCLcW-css,
 .hope-c-mHASU-kFfbLQ-colorScheme-info,
 .hope-ui-dark .hope-c-ivMHWx-hZistB-cv.hope-c-PJLV.hope-c-PJLV-iikaotv-css svg {
-	color: #ffb6c1 !important
+	color: #912CEE !important
 }
 
 .hope-c-mHASU-kFfbLQ-colorScheme-info[data-focus] {
-	border-color: #ffb6c1 !important;
+	border-color: #912CEE !important;
 	box-shadow: 0 0 0 2px #ffcdd4 !important
 }
 
@@ -37,7 +37,7 @@
 .left-toolbar-box svg:hover,
 .center-toolbar svg:hover {
 	color: white !important;
-	background-color: #ffb6c1
+	background-color: #912CEE
 }
 
 .hope-c-PJLV-icHSmvX-css {
@@ -70,7 +70,7 @@
 }
 
 .hope-c-dhzjXW.hope-c-XNyZK.hope-c-PJLV.hope-c-PJLV-ijhzIfm-css:hover {
-	color: #ffb6c1 !important;
+	color: #912CEE !important;
 	background: none
 }
 
